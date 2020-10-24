@@ -12,5 +12,6 @@ class Solution:
             ans = max(ans, r-i+1)
         return ans
 s = Solution()
-ans = s.lengthOfLongestSubstring('abcacadfseasadd')
-print(ans)
+if __name__ == __main__:
+    ans = s.lengthOfLongestSubstring('abcacadfseasadd')
+    print(ans)
