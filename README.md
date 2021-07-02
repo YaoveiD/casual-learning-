@@ -1,4 +1,4 @@
-### Casual Learning
-None
-
-hello, everyone.
+# Casual Learning
+just some code records
+maybe make no sense
+anyway, just records
